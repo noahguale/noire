@@ -1,8 +1,0 @@
-{
-  "extends": "@noire/typescript-config/react-library.json",
-  "compilerOptions": {
-    "outDir": "dist"
-  },
-  "include": ["src", ".storybook/stories"],
-  "exclude": ["node_modules", "dist"]
-}
